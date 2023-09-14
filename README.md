@@ -29,4 +29,6 @@ Have implemented two things
 1-Social login
 2-Sending ERC20 tokens using ERC20(without paying gas in matic)
 
+Currently configured for transfering USDC
+
 npm run dev
